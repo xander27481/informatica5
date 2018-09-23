@@ -7,7 +7,7 @@ m_V2 = (int(input('Vertrek vriendin (minuten): '))) + (h_V2 * 60)
 h_T2 = int(input('aankomst thuis (uren): '))
 m_T2 = (int(input('aankomst thuis (minuten): '))) + (h_T2 * 60)
 
-############### VAN XANDER #################
+############### VAN XANDER ################
 
 verschil_thuis = m_T2 - m_T1
 if verschil_thuis < 0:
