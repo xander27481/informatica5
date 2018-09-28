@@ -22,7 +22,7 @@ m_V2 += achterstand
 
 minuten_klok = int(m_V2 % 60)
 uren_klok = int(m_V2 // 60)
-if uren_klok > 24:
+if uren_klok > 24:                             ########################"   -210 % 1440 = 1230
     uren_klok -= 24
 
 print(uren_klok)
