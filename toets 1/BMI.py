@@ -27,4 +27,4 @@ else:
     gewicht = 'is obees.'
 
 # uitvoer
-print(naam, 'heeft het hoogste BMI ({:.2f}) en'.format(check), gewicht)
+print('{} heeft het hoogste BMI ({:.2f}) en {}'.format(naam, check, gewicht))
