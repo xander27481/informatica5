@@ -6,7 +6,7 @@ max_ = 0
 
 for i in range(keer):
     getal = int(input('getal: '))
-    if i = 0
+    if i == 0:
         max_ = getal
     if getal > max_:
         max_ = getal
