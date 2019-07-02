@@ -11,4 +11,3 @@ while letter in woord and letter not in woord_2:
     letter = input('Gok een letter: ')
 
 print(gewonnen)
-

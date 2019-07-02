@@ -2,6 +2,13 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$/../jacqueline">
+      <sourceFolder url="file://$MODULE_DIR$/../jacqueline/modules" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../jacqueline/games" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../random">
+      <sourceFolder url="file://$MODULE_DIR$/../random/woords/image" isTestSource="false" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
